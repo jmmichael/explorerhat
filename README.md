@@ -1,1 +1,1 @@
-# explorerhat
+# explorerhat Pimoroni files installed
